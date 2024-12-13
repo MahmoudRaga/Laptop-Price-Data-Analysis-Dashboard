@@ -1,10 +1,10 @@
 # Laptop-Price-Data-Analysis-Dashboard
 ![](https://github.com/MahmoudRaga/Laptop-Price-Data-Analysis-Dashboard/blob/main/Picture2.png)
-##Overview
+## Overview
 
 This project provides a Power BI dashboard for analyzing and visualizing laptop prices based on various factors such as brand, specifications, and other key attributes. The dashboard is designed to help users gain insights into the pricing trends of laptops in the market.
 
-##Features
+## Features
 
 Interactive visualizations for exploring laptop prices.
 
